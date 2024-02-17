@@ -1,4 +1,9 @@
-# qgeoidcolweb
+
+
+
+# qgeoidcolweb as Capstone Project for Web-Based Computer Science Harvard Course
+
+Certificate in: https://credentials.edx.org/credentials/40a8589eb823407eb68926b844dcb107/
 
 ## Distinctiveness and Complexity
 
